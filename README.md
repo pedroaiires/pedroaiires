@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aires-8b70a1265/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___.aires/)
 
-![Pedro Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAiires&show_icons=true&theme=merko)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAiires&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Pedro Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAiires&show_icons=true&theme=merko)   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoIto&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 ## Tecnologias que eu uso no meu dia
 
