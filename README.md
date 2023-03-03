@@ -27,3 +27,4 @@ const User {
 
 </div>
 
+<img src="https://github.com/PedroAiires/PedroAiires/blob/main/gifcoffe.gif" width="200">
